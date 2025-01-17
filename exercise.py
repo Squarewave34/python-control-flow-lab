@@ -194,6 +194,7 @@ weather_advice()
 # - Use 'in' to check if a string is in a list or tuple.
 # - Adjust the season based on the day of the month when needed.
 # - Ensure to validate input formats and handle unexpected inputs gracefully.
+# ref https://www.skillreactor.io/blog/how-to-exit-a-function-in-python/#:~:text=An%20alternative%20way%20to%20exit,to%20the%20exit()%20function.
 
 def out_of_range():
   print("the number is out of range")
